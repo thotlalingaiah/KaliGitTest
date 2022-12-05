@@ -56,7 +56,7 @@ type cb_1 from commandbutton within w_1
 integer x = 2994
 integer y = 236
 integer width = 955
-integer height = 1144
+integer height = 248
 integer taborder = 10
 integer textsize = -10
 integer weight = 400
